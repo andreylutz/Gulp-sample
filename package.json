@@ -1,7 +1,7 @@
 {
   "name": "gulp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Создание package.json : npm init Устанавливаем gulp глобально: npm i gulp-cli -g устанавливаем gulp в проект: npm i gulp -D Запуск сборки: gulp (npm run dev если прописан скрипт)",
   "main": "gulpfile.js",
   "type": "module",
   "scripts": {
